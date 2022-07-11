@@ -1,3 +1,3 @@
 # calculator
 
-thi is just a very basic calculator
+this is just a very basic calculator
